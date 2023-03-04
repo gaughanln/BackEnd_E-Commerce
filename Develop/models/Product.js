@@ -34,6 +34,7 @@ Product.init(
         isNumeric: true,
       },
     },
+    //foriegn key column
     category_id: {
       type: DataTypes.INTEGER,
       references: {
