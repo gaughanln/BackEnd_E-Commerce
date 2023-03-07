@@ -28,6 +28,8 @@ The following video shows an example of the application being used from Insomnia
 
 https://user-images.githubusercontent.com/111533986/223275391-b58313c7-f0f5-4517-864d-1627bc2906f2.mov
 
+The following video shows how to create the schema from the Mysql shell, seed the database from the command line, and start the application's server.
+
 
 <!-- screenshots -->
 Below is a screenshot of the application in use
