@@ -30,6 +30,7 @@ https://user-images.githubusercontent.com/111533986/223275391-b58313c7-f0f5-4517
 
 The following video shows how to create the schema from the Mysql shell, seed the database from the command line, and start the application's server.
 
+https://user-images.githubusercontent.com/111533986/223287162-66b4ece9-2e71-4b55-b4a7-9368dca66e7f.mov
 
 <!-- screenshots -->
 Below is a screenshot of the application in use
